@@ -67,7 +67,6 @@ git clone https://github.com/samratashok/nishang.git
 git clone https://github.com/secretsquirrel/the-backdoor-factory.git
 git clone https://github.com/shellinabox/shellinabox.git
 git clone https://github.com/smicallef/spiderfoot.git
-git clone https://github.com/SpiderLabs/Responder.git
 git clone https://github.com/stasinopoulos/commix.git
 git clone https://github.com/stufus/egresscheck-framework.git
 git clone https://github.com/theZiz/aha.git
