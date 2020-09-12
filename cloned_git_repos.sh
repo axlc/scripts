@@ -3,7 +3,7 @@
 
 CUR_DIR=$(pwd)
 
-echo -e "\n\033[1mSearchign for all git repositories on your system...\033[0m\n"
+echo -e "\n\033[1mSearching for all git repositories on your system...\033[0m\n"
 
 for d in $(find / -name .git -type d 2>/dev/null); do 
     cd $d/..
